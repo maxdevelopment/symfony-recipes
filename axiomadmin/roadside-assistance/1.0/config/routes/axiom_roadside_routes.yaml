@@ -1,3 +1,4 @@
 app_extra:
     resource: .
     type: axiom_routes
+    prefix: api/v0
