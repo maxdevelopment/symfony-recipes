@@ -1,0 +1,14 @@
+{
+    "aliases": [
+        "axiom-roadside-bundle"
+    ],
+    "bundles": {
+        "AxiomAdmin\\RoadsideAssistance\\AxiomAdminRoadsideAssistanceBundle": [
+            "all"
+        ]
+    },
+    "env": {
+        "TEST_NAME": "name1",
+        "TEST_SECRET": "secret1"
+    }
+}
