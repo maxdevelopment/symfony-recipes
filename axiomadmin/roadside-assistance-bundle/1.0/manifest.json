@@ -1,6 +1,6 @@
 {
     "aliases": [
-        "axiom-roadside"
+        "axiom-roadside-bundle"
     ],
     "bundles": {
         "AxiomAdmin\\RoadsideAssistance\\AxiomAdminRoadsideAssistanceBundle": [
