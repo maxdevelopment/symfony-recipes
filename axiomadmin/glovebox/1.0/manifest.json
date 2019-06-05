@@ -1,0 +1,13 @@
+{
+    "aliases": [
+        "axiom-glovebox"
+    ],
+    "bundles": {
+        "AxiomAdmin\\Glovebox\\AxiomAdminGloveboxeBundle": [
+            "all"
+        ]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
