@@ -1,0 +1,13 @@
+{
+    "aliases": [
+        "axiom-user"
+    ],
+    "bundles": {
+        "AxiomAdmin\\UserBundle\\AxiomAdminUserBundle": [
+            "all"
+        ]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
