@@ -1,0 +1,18 @@
+{
+    "aliases": [
+        "axiom-user"
+    ],
+    "bundles": {
+        "AxiomAdmin\\VehicleBundle\\AxiomAdminVehicleBundle": [
+            "all"
+        ]
+    },
+    "env": {
+        "WEB_PORTAL_BASE_URL": "",
+        "WELCOME_EMAIL_APP_LINK": "",
+        "WELCOME_EMAIL_FROM": ""
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
