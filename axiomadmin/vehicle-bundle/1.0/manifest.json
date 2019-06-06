@@ -8,6 +8,10 @@
         ]
     },
     "env": {
+        "DATABASE_URL_DATAONE": "",
+        "BLOB_STORAGE_ACCOUNT_NAME": "",
+        "BLOB_STORAGE_ACCOUNT_KEY": "",
+        "BLOB_STORAGE_CONTAINER_NAME": "",
         "WEB_PORTAL_BASE_URL": "",
         "WELCOME_EMAIL_APP_LINK": "",
         "WELCOME_EMAIL_FROM": ""
