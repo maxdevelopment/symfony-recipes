@@ -1,4 +1,4 @@
 app_extra:
     resource: .
-    type: axiom_routes
+    type: axiom_glovebox_routes
     prefix: api/v0
