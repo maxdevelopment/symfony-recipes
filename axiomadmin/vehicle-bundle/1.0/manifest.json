@@ -1,6 +1,6 @@
 {
     "aliases": [
-        "axiom-user"
+        "axiom-vehicle"
     ],
     "bundles": {
         "AxiomAdmin\\VehicleBundle\\AxiomAdminVehicleBundle": [
