@@ -7,6 +7,10 @@
             "all"
         ]
     },
+    "env": {
+        "AZURE_BLOB_STORAGE_STRING": "",
+        "AZURE_BLOB_STORAGE_CONTAINER": ""
+    },
     "copy-from-recipe": {
         "config/": "%CONFIG_DIR%/"
     }
