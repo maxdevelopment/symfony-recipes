@@ -8,6 +8,7 @@
         ]
     },
     "env": {
+        "GATEWAY_BASE_URL": "",
         "DATABASE_URL_DATAONE": "",
         "BLOB_STORAGE_ACCOUNT_NAME": "",
         "BLOB_STORAGE_ACCOUNT_KEY": "",
