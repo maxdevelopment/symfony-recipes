@@ -1,0 +1,14 @@
+{
+    "aliases": [
+        "axiom-azure-storage"
+    ],
+    "bundles": {
+        "AxiomAdmin\\AzureStorageBundle\\AxiomAdminAzureStorageBundle": [
+            "all"
+        ]
+    },
+    "env": {
+        "AZURE_BLOB_STORAGE_CONTAINER": "",
+        "AZURE_BLOB_STORAGE_STRING": ""
+    }
+}
