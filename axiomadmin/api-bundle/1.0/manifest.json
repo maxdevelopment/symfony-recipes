@@ -1,6 +1,6 @@
 {
     "aliases": [
-        "axiom-glovebox"
+        "axiom-api-bundle"
     ],
     "bundles": {
         "AxiomAdmin\\ApiBundle\\AxiomAdminApiBundle": [
