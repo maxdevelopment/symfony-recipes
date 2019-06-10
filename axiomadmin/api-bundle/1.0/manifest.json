@@ -1,0 +1,13 @@
+{
+    "aliases": [
+        "axiom-api-bundle"
+    ],
+    "bundles": {
+        "AxiomAdmin\\ApiBundle\\AxiomAdminApiBundle": [
+            "all"
+        ]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
