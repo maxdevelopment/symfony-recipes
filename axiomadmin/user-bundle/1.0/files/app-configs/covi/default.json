@@ -1,0 +1,59 @@
+{
+  "uiConfiguration": [
+    {
+      "client": "mobile",
+      "navigationMenuItems": [
+        {
+          "name": "vehicle",
+          "order": 0
+        },
+        {
+          "name": "products",
+          "order": 1
+        },
+        {
+          "name": "glovebox",
+          "order": 2
+        },
+        {
+          "name": "dealer",
+          "order": 3
+        },
+        {
+          "name": "more",
+          "order": 4
+        }
+      ],
+      "moreNavigationMenuItems": [
+        {
+          "name": "findMyKeys",
+          "order": 0
+        },
+        {
+          "name": "service",
+          "order": 1
+        },
+        {
+          "name": "claims",
+          "order": 2
+        },
+        {
+          "name": "roadsideAssistance",
+          "order": 3
+        },
+        {
+          "name": "myDigitalVehicleRewards",
+          "order": 4
+        },
+        {
+          "name": "help",
+          "order": 5
+        },
+        {
+          "name": "settings",
+          "order": 6
+        }
+      ]
+    }
+  ]
+}
