@@ -1,0 +1,17 @@
+{
+    "aliases": [
+        "axiom-notification"
+    ],
+    "bundles": {
+        "AxiomAdmin\\NotificationBundle\\AxiomAdminNotificationBundle": [
+            "all"
+        ]
+    },
+    "env": {
+        "FIREBASE_PRIVATE_KEY_FILE": "",
+        "CURL_VERIFY_PEER": ""
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
