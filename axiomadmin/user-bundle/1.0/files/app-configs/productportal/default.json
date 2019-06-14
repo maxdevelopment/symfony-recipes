@@ -1,0 +1,26 @@
+{
+  "routes": [
+    "dashboard",
+    "account",
+    "forms",
+    "notification",
+    "products",
+    "serviceCenters",
+    "user",
+    "seller",
+    "componentService",
+    "privateLabel"
+  ],
+  "defaultRoute": "user",
+  "sidebar": [
+    "dashboard",
+    "forms",
+    "notifications",
+    "products",
+    "serviceCenters",
+    "users",
+    "sellers",
+    "componentServices",
+    "privateLabel"
+  ]
+}
