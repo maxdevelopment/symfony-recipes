@@ -1,0 +1,13 @@
+{
+  "aliases": [
+    "axiom-security"
+  ],
+  "bundles": {
+    "AxiomAdmin\\SecurityBundle\\AxiomAdminSecurityBundle": [
+      "all"
+    ]
+  },
+  "copy-from-recipe": {
+    "config/": "%CONFIG_DIR%/",
+  }
+}
