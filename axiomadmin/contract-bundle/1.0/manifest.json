@@ -1,0 +1,16 @@
+{
+    "aliases": [
+        "axiom-contract"
+    ],
+    "bundles": {
+        "AxiomAdmin\\ContractBundle\\AxiomAdminContractBundle": [
+            "all"
+        ]
+    },
+    "env": {
+        "GATEWAY_BASE_URL": ""
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
