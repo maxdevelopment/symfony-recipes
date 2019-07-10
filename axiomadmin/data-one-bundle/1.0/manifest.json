@@ -1,0 +1,15 @@
+{
+    "aliases": [
+        "axiom-data-one"
+    ],
+    "bundles": {
+        "AxiomAdmin\\DataOneBundle\\AxiomAdminDataOneBundle": [
+            "all"
+        ]
+    },
+    "env": {
+        "DATAONE_AZURE_BLOB_STORAGE_STRING": "",
+        "DATAONE_AZURE_BLOB_STORAGE_CONTAINER": "",
+        "DATABASE_URL_DATAONE": ""
+    }
+}
