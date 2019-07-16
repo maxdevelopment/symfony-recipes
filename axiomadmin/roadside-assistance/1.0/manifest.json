@@ -11,8 +11,7 @@
         "WSDL_LINK": "https://test.questsoftware.com/qm/qtsMobile?wsdl",
         "WSDL_CLIENT_NUMBER": "80",
         "WSDL_PASSWORD": "km$WRc5G",
-        "WSDL_DEALER_NUMBER": "201001",
-        "WSDL_DIRECT_NUMBER": "201002",
+        "WSDL_COVERED_NUMBER": "201001",
         "WSDL_IS_TEST_ENVIRONMENT": "1"
     },
     "copy-from-recipe": {
