@@ -1,0 +1,15 @@
+{
+    "aliases": [
+        "axiom-moxa"
+    ],
+    "bundles": {
+        "AxiomAdmin\\MoxaBundle\\AxiomAdminMoxaBundle": [
+            "all"
+        ]
+    },
+    "env": {
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
