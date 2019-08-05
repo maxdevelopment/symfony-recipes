@@ -1,0 +1,15 @@
+{
+    "aliases": [
+        "axiom-service-request"
+    ],
+    "bundles": {
+        "AxiomAdmin\\ServiceRequestBundle\\AxiomAdminServiceRequestBundle": [
+            "all"
+        ]
+    },
+    "env": {
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
