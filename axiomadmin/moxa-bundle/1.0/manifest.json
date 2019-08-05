@@ -1,18 +1,18 @@
 {
-  "aliases": [
-    "axiom-moxa"
-  ],
-  "bundles": {
-    "AxiomAdmin\\MoxaBundle\\AxiomAdminMoxaBundle": [
-      "all"
-    ]
-  },
-  "env": {
-    "AUTHORIZE_NET_LOGIN_ID": "",
-    "AUTHORIZE_NET_TRANSACTION_KEY": "",
-    "AUTHORIZE_NET_SANDBOX_MODE": "false"
-  },
-  "copy-from-recipe": {
-    "config/": "%CONFIG_DIR%/"
-  }
+    "aliases": [
+        "axiom-moxa"
+    ],
+    "bundles": {
+        "AxiomAdmin\\MoxaBundle\\AxiomAdminMoxaBundle": [
+            "all"
+        ]
+    },
+    "env": {
+        "AUTHORIZE_NET_LOGIN_ID": "",
+        "AUTHORIZE_NET_TRANSACTION_KEY": "",
+        "AUTHORIZE_NET_SANDBOX_MODE": "false"
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
 }

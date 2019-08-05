@@ -1,4 +1,4 @@
 app_extra:
-  resource: .
-  type: axiom_moxa_routes
-  prefix: api/v0
+    resource: .
+    type: axiom_moxa_routes
+    prefix: api/v0
