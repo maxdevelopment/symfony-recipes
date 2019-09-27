@@ -1,0 +1,13 @@
+{
+    "aliases": [
+        "axiom-database"
+    ],
+    "bundles": {
+        "AxiomAdmin\\DatabaseBundle\\AxiomAdminDatabaseBundle": [
+            "all"
+        ]
+    },
+    "env": {
+        "DATABASE_TEST": ""
+    }
+}
