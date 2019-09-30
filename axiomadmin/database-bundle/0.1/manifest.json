@@ -6,8 +6,5 @@
         "AxiomAdmin\\DatabaseBundle\\AxiomAdminDatabaseBundle": [
             "all"
         ]
-    },
-    "env": {
-        "DATABASE_TEST": ""
     }
 }
